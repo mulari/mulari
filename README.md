@@ -3,7 +3,6 @@
   - Azure Governance – policies, management groups, RBAC and keeping cloud environments in order
   - Microsoft 365 – administration, configuration and automation
   - Power Platform – building with Power Apps, Power Automate, Power BI and more
-  - PowerShell – scripting and automating everything I can
 
 
 <!---
